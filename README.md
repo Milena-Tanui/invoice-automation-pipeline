@@ -29,7 +29,7 @@ This pipeline eliminates that burden entirely.
 
 > *A short walkthrough of the Invoice Automation Pipeline running live — from Gmail trigger to Google Sheets output and weekly digest email.*
 
-[![Watch the Demo](https://img.shields.io/badge/Watch_Demo-Loom%2FYouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.loom.com/share/54aabe263a9e4958b9c710f22f6c78c0)
+[![Watch the Demo](https://img.shields.io/badge/Watch_Demo-Loom%2Fstyle=for-the-badge&logoColor=white)](https://www.loom.com/share/54aabe263a9e4958b9c710f22f6c78c0)
 
 ---
 
@@ -132,18 +132,6 @@ Every Sunday at 6PM
 
 ---
 
-## 🚀 Setup Instructions
-
-1. Import `invoice-automation-pipeline.json` into your n8n instance
-2. Import `weekly-digest.json` into your n8n instance
-3. Connect your Gmail account in both workflows
-4. Add your Anthropic API key to the HTTP Request node headers
-5. Connect your Google Sheets account and set your spreadsheet ID
-6. Activate both workflows
-
-> ⚠️ Never commit your API key to GitHub. Replace it with `YOUR_ANTHROPIC_API_KEY` in the JSON file before uploading.
-
----
 
 ## 📸 Screenshots
 
