@@ -72,6 +72,9 @@ manual input.
 
 ---
 
+## Demo
+[▶ Watch the pipeline in action](https://www.loom.com/share/54aabe263a9e4958b9c710f22f6c78c0)
+
 ## Screenshots
 
 ### Workflow 1 — Invoice Processing Pipeline
