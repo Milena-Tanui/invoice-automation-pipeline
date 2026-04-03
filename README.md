@@ -90,4 +90,4 @@ manual input.
 
 ## Built By
 Milena Tanui — AI Agent Builder & Workflow Automation Specialist  
-[Portfolio](https://milena-tanui.github.io/Portfolio/) · [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/milena-tanui-64b898173/)
+[Portfolio](https://milena-tanui.github.io/Portfolio/) · [LinkedIn](https://linkedin.com/in/milena-tanui-64b898173/)
