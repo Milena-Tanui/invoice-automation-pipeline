@@ -29,7 +29,7 @@ This pipeline eliminates that burden entirely.
 
 > *A short walkthrough of the Invoice Automation Pipeline running live — from Gmail trigger to Google Sheets output and weekly digest email.*
 
-[![Watch the Demo](https://img.shields.io/badge/Watch_Demo-Loom%2FYouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.loom.com/share/54aabe263a9e4958b9c710f22f6c78c0)
+[![Watch the Demo](https://img.shields.io/badge/Watch_Demo-Loom-625DF5?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/54aabe263a9e4958b9c710f22f6c78c0)
 
 ## ⚙️ How It Works
 
